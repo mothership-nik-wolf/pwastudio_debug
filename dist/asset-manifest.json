@@ -1,0 +1,19 @@
+{
+  "client.js": "js/client.js",
+  "entrypoints": {
+    "client": {
+      "js": [
+        "js/vendor~client-fe1f0d5e3f1872e6337f.js",
+        "js/client.js"
+      ]
+    }
+  },
+  "vendor~client.js": "js/vendor~client-fe1f0d5e3f1872e6337f.js",
+  "bundles": {
+    "load": [
+      "js/vendor~client-fe1f0d5e3f1872e6337f.js",
+      "js/client.js"
+    ],
+    "prefetch": []
+  }
+}
